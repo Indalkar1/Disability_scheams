@@ -10,10 +10,7 @@ function LoginUi() {
          <div className="imgs">
            <div className="container-image">
              <img src={profile} alt="profile" className="profile"/>
-
            </div>
-
-
          </div>
          <div>
            <h1>Login Page</h1>
@@ -36,8 +33,7 @@ function LoginUi() {
  
          </div>
        </div>
-       
-
+      
      </div>
     </div>
   );
